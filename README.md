@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**miro-bedada/miro-bedada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mihiretu Bedada
 
-Here are some ideas to get you started:
+### Healthcare AI | Data Science | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Master's in **AI for Public Health at Aix-Marseille University**. I have a background in Health Informatics and experience in healthcare data analysis, machine learning, and predictive modelling.
+
+🌱 **Currently learning:** Advanced Machine Learning, Python, and Statistical Modelling.
+
+🔬 **Research interests:** Healthcare AI, Clinical Data Science, Predictive Analytics, and Digital Health.
+
+📫 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/mire-j)
+- [Portfolio](https://mihiretu-bedada.vercel.app/)
+- Email: mihiretu.bedada@gmail.com
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, R, SQL
+
+**Data Analysis:** Pandas, NumPy, Excel, Power BI
+
+**Machine Learning:** Scikit-learn, PyTorch, Time-Series Forecasting
+
+**Healthcare:** DHIS2, EHR/EMR, Health Data Analytics
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| Hospital Performance Analytics | Hospital KPI analysis and forecasting | Python, Pandas, Prophet |
+| Hospital Bed Prediction | Machine learning for hospital bed requirement prediction | Python, Machine Learning |
+| Healthcare Data Analysis | Analysis and visualization of healthcare data | Python, SQL |
+
+---
+
+## 📚 Publication
+
+**Multi-Task Learning Approach for Hospital Bed Requirement Prediction**
+
+IEEE/AICCSA 2024 — First Author.
+
+[Read the publication](https://imt-mines-albi.hal.science/hal-05019398v1)
+
+---
+
+## Let's Connect
+
+I'm interested in collaborating on healthcare AI, machine learning, and public health data science projects.
