@@ -3,14 +3,11 @@
 
 ### Healthcare AI | Data Analysis | Machine Learning
 
-I'm currently specializing in **AI for Public Health at Aix-Marseille University**. I have a background in Health Informatics and experience in healthcare data analysis, machine learning, and predictive modelling.
+Currently specializing in **AI for Public Health at Aix-Marseille University**. I have a background in Health Informatics and experience in healthcare data analysis, machine learning, and predictive modelling.
 
-🌱 **Currently learning:** Advanced Machine Learning, Python, and Statistical Modelling.
-
-🔬 **Research interests:** Healthcare AI, Clinical Data Science, Predictive Analytics, and Digital Health.
 
 📫 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/mire-j)
+- [LinkedIn](https://www.linkedin.com/in/mihiretu-bedada-ba222821a)
 - [Portfolio](https://mihiretu-bedada.vercel.app/)
 - Email: mihiretu.bedada@gmail.com
 
