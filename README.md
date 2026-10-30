@@ -18,13 +18,43 @@ I'm currently specializing in **AI for Public Health at Aix-Marseille University
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, R, SQL
+### 💻 Programming & Data Analytics
 
-**Data Analysis:** Pandas, NumPy, Excel, Power BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+![Stata](https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Machine Learning:** Scikit-learn, PyTorch, Time-Series Forecasting
+### 🤖 Machine Learning & AI
 
-**Healthcare:** DHIS2, EHR/EMR, Health Data Analytics
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A5ACD?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Multi--Task Learning](https://img.shields.io/badge/Multi--Task_Learning-5C4B8A?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 📊 Statistical & Predictive Modeling
+
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-007C91?style=for-the-badge)
+![Time Series Forecasting](https://img.shields.io/badge/Time--Series_Forecasting-2E8B57?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4682B4?style=for-the-badge)
+
+### 🏥 Health Systems
+
+![DHIS2](https://img.shields.io/badge/DHIS2-276749?style=for-the-badge)
+![HMIS](https://img.shields.io/badge/HMIS-008B8B?style=for-the-badge)
+![EMR/EHR](https://img.shields.io/badge/EMR%2FEHR-4169E1?style=for-the-badge)
+![Healthcare Databases](https://img.shields.io/badge/Healthcare_Databases-2F4F4F?style=for-the-badge)
+
+### 🌐 Digital Health & Interoperability
+
+![HL7](https://img.shields.io/badge/HL7-005A9C?style=for-the-badge)
+![FHIR](https://img.shields.io/badge/FHIR-E67E22?style=for-the-badge)
+![DICOM](https://img.shields.io/badge/DICOM-008080?style=for-the-badge)
 
 ---
 
