@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Mihiretu Bedada
 
-### Healthcare AI | Data Science | Machine Learning
+### Healthcare AI | Data Analysis | Machine Learning
 
-I'm currently pursuing a Master's in **AI for Public Health at Aix-Marseille University**. I have a background in Health Informatics and experience in healthcare data analysis, machine learning, and predictive modelling.
+I'm currently specializing in **AI for Public Health at Aix-Marseille University**. I have a background in Health Informatics and experience in healthcare data analysis, machine learning, and predictive modelling.
 
 🌱 **Currently learning:** Advanced Machine Learning, Python, and Statistical Modelling.
 
