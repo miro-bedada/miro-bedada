@@ -65,13 +65,13 @@ Currently specializing in **AI for Public Health at Aix-Marseille University**. 
 
 ---
 
-## 📚 Publication
+%## 📚 Publication
 
-**Multi-Task Learning Approach for Hospital Bed Requirement Prediction**
+%**Multi-Task Learning Approach for Hospital Bed Requirement Prediction**
 
-IEEE/AICCSA 2024 — First Author.
+%IEEE/AICCSA 2024 — First Author.
 
-[Read the publication](https://imt-mines-albi.hal.science/hal-05019398v1)
+%[Read the publication](https://imt-mines-albi.hal.science/hal-05019398v1)
 
 ---
 
