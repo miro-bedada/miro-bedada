@@ -55,26 +55,6 @@ Currently specializing in **AI for Public Health at Aix-Marseille University**. 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Hospital Performance Analytics | Hospital KPI analysis and forecasting | Python, Pandas, Prophet |
-| Hospital Bed Prediction | Machine learning for hospital bed requirement prediction | Python, Machine Learning |
-| Healthcare Data Analysis | Analysis and visualization of healthcare data | Python, SQL |
-
----
-
-%## 📚 Publication
-
-%**Multi-Task Learning Approach for Hospital Bed Requirement Prediction**
-
-%IEEE/AICCSA 2024 — First Author.
-
-%[Read the publication](https://imt-mines-albi.hal.science/hal-05019398v1)
-
----
-
 ## Let's Connect
 
 I'm interested in collaborating on healthcare AI, machine learning, and public health data science projects.
